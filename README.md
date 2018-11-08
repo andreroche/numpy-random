@@ -1,5 +1,5 @@
-# numpy-random
-Exploration of functions and distributions available inthe numPy random package 
+# Numpy-Random
+Exploration of functions and distributions available in the numPy random package 
 
 # Instructions
 Jupyter notebook is used to demonstrate the numpy random package. Open the Jupyter notebook in the terminal by simply typing jupyter notebook. If not installed it can be installed as part of the Anaconda package or alternatively visit https://jupyter.readthedocs.io/en/latest/install.html for further information.
